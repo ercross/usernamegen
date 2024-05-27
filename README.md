@@ -1,2 +1,2 @@
 # usernamegen
-a collision-free username generator
+a collision-free username generator package
